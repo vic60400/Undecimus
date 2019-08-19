@@ -2,7 +2,7 @@
 ### The most advanced jailbreak tool
 ![unc0ver logo](https://github.com/pwn20wndstuff/Undecimus/raw/master/Undecimus/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60%403x.png)
 
-unc0ver jailbreak for iOS 11.0 - 12.2<br/>
+unc0ver jailbreak for iOS 11.0 - 12.4<br/>
 by [@pwn20wnd](https://twitter.com/Pwn20wnd) & [@sbingner](https://twitter.com/sbingner)<br/>
 UI by [@iOS_App_Dev](https://twitter.com/iOS_App_Dev) & [@HiMyNameIsUbik](https://twitter.com/HiMyNameIsUbik)<br/>
 
@@ -55,6 +55,7 @@ UI by [@iOS_App_Dev](https://twitter.com/iOS_App_Dev) & [@HiMyNameIsUbik](https:
 * Releases are available at https://github.com/pwn20wndstuff/Undecimus/releases (Note: rc1-v1.1.4 releases are no longer available)
 
 ## Special Thanks
+* [@umanghere](https://twitter.com/umanghere) for SockPuppet 3.0 exploit
 * [@i41nbeer](https://twitter.com/i41nbeer) for mach_portal, triple_fetch, async_wake, empty_list, multi_path and deja_xnu
 * [@bazad](https://twitter.com/bazad) for voucher_swap and PAC bypass
 * [@Morpheus______](https://twitter.com/Morpheus______) for the QiLin Toolkit (No longer used)
